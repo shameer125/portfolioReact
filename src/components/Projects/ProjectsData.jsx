@@ -44,7 +44,8 @@ const projectsData = [
   {
     title: "API Javascript mini project",
     image: img6,
-    viewLink: "",
+    viewLink: "https://api-javascript-mini-project.vercel.app/",
+
     codeLink: "https://github.com/shameer125/Javascript_hackathon",
   },
 ];
