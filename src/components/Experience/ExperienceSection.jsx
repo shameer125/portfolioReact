@@ -3,7 +3,6 @@ import { FaBriefcase } from "react-icons/fa";
 import ExperienceCard from "./ExperienceCard";
 import { motion } from 'framer-motion';
 
-/* Stagger container */
 const containerVariants = {
   hidden: {},
   visible: {

@@ -9,7 +9,7 @@ import { motion } from 'framer-motion';
 const cardVariants = {
   hidden: {
     opacity: 0,
-    y: -60, // slide from top
+    y: -60, 
   },
   visible: (custom) => ({
     opacity: 1,

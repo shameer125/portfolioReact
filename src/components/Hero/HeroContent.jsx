@@ -18,6 +18,7 @@ const HeroContent = () => {
         transition={{ duration: 0.8, ease: "easeInOut" }}
         viewport={{ once: false, amount: 0.3 }}
       >
+
         <p className="mt-4 text-2xl font-semibold">
           I Am Into <AnimatedRoles />
         </p>
@@ -29,7 +30,6 @@ const HeroContent = () => {
         </button>
       </motion.div>
 
-      {/* Social Icons Below Button */}
       <SocialIcons />
     </div>
   );

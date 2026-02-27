@@ -108,7 +108,7 @@ const Footer = () => {
   );
 };
 
-/* CLICKABLE SOCIAL ICON */
+
 const SocialIcon = ({ icon, link }) => (
   <a
     href={link}
