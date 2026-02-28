@@ -28,11 +28,11 @@ const projectsData = [
     codeLink: "https://github.com/shameer125/CaraJS",
   },
   {
-    title: "JavaScript project",
+    title: "E-commerce_Dashboard",
     image: img4,
-    viewLink: "https://ecommerce-project-in-js.vercel.app",
+    viewLink: "https://e-commerce-dashboard-azure.vercel.app",
 
-    codeLink: "https://github.com/shameer125/ecommerce_project",
+    codeLink: "https://github.com/shameer125/E-commerce_Dashboard",
   },
   {
     title: "Modern React Project",
@@ -49,5 +49,6 @@ const projectsData = [
     codeLink: "https://github.com/shameer125/Javascript_hackathon",
   },
 ];
+
 
 export default projectsData;
