@@ -1,22 +1,24 @@
-![logo](https://github.com/shameer125/shameer125/blob/main/logo2.png)
+<p align="center">
+  <img src="https://github.com/shameer125/shameer125/blob/main/logo2.png" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Shameer Ali</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | Data Science Learner</h3>
+<h3 align="center">Frontend Developer | React Enthusiast | MERN Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;JavaScript+Lover;Learning+Data+Science;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;MERN+Stack+Developer;Learning+Data+Science;Open+Source+Enthusiast"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-* 🎓 Student at **Agriculture University Peshawar**
-* 💻 Passionate **Frontend Developer**
-* 🌱 Currently learning **React, Data Science & Advanced JavaScript**
-* 🎯 Goal: Become a **Full Stack Developer**
-* 💬 Ask me about **HTML, CSS, JavaScript, React**
-* ⚡ Fun fact: I love **building projects & learning new technologies**
+- 🎓 Student at **Agriculture University Peshawar**
+- 💻 Passionate **Frontend Developer**
+- 🌱 Currently learning **Next.js, Node.js, MongoDB**
+- 🎯 Goal: Become a **Full Stack Developer**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- ⚡ Fun fact: I love **building projects & learning new technologies**
 
 ---
 
@@ -31,13 +33,13 @@
 ### ⚛️ Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bootstrap"/>
 </p>
 
 ### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,mongodb"/>
 </p>
 
 ---
@@ -60,22 +62,24 @@
 
 ### 🛒 ShopSphere Ecommerce (React)
 
-* Product listing
-* Shopping cart
-* Responsive UI
-* Local Storage based cart system
+- Product listing
+- Shopping cart system
+- Responsive design
+- Local storage cart functionality
 
 ### 🌐 Personal Portfolio Website
 
-* Modern UI
-* Responsive design
-* Project showcase
+- Modern UI
+- Fully responsive
+- Project showcase
+- Contact section
 
-### 📊 Data Science Dashboard
+### 🏨 Hotel Booking Management System
 
-* Data visualization
-* Interactive charts
-* Python + Data Analysis
+- Room booking system
+- Admin dashboard
+- Customer booking interface
+- Booking management system
 
 ---
 
@@ -95,11 +99,11 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:alishameer251@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/shameer-ali-8420a6322">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
